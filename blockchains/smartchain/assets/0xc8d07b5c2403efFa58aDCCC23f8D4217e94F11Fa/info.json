@@ -1,0 +1,11 @@
+{
+    "name": "AXE Token",
+    "website": "https://axawallet.com",
+    "description": "AXE is the native token of AXA Wallet, convertible to Ariary and USDT.",
+    "explorer": "https://bscscan.com/token/0xc8d07b5c2403efFa58aDCCC23f8D4217e94F11Fa",
+    "type": "BEP20",
+    "symbol": "AXE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc8d07b5c2403efFa58aDCCC23f8D4217e94F11Fa"
+}
